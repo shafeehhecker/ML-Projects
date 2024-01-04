@@ -1,2 +1,2 @@
 # ML-Projects
-A repo of all ML projects tried by me
+A repo of my practice of ML daily.Contains Pytorch&TensorFlow 
